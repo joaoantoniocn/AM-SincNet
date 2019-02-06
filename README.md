@@ -36,4 +36,33 @@ python speaker_id.py --cfg=cfg/$CFG_FILE
 where:
 - *$CFG_FILE* is the name of the cfg configuration file which is located at cfg folder.
 
-We have made avaliable several cfg configuration files for the experiments, if you want to run the experiment with the traditional SincNet (with no use of the AM-Softmax layer) you must use the [*SincNet_TIMIT.cfg*](cfg/SincNet_TIMIT.cfg) file, otherwise you can use the [*SincNet_TIMIT_m0XX.cfg*](cfg/) file where the *XX* denotes the size of the margin parameter that will be used for the AM-Softmax layer.
+We have made avaliable several cfg configuration files for the experiments, if you want to run the experiment with the traditional SincNet (with no use of the improved AM-Softmax layer) you must use the [*SincNet_TIMIT.cfg*](cfg/SincNet_TIMIT.cfg) file, otherwise you can use the [*SincNet_TIMIT_m0XX.cfg*](cfg/) file where the *XX* denotes the size of the margin parameter that will be used for the AM-Softmax layer.
+
+
+## Results
+When training have a look at the *cfg* configuration file, the output paths for the model and the result (*res.res*) files are placed there.
+
+We have also made available some results from our experiments, you can check them at [*exp*](exp/) folder. The resume of the results are saved in the *res.res* files.
+
+## Cite us
+
+If you use this code or part of it, please cite us!
+
+``
+@ARTICLE{2019arXiv190110826N,
+       author = {{Nunes}, Jo{\~a}o Ant{\^o}nio Chagas and {Mac{\^e}do}, David and
+        {Zanchettin}, Cleber},
+        title = "{Additive Margin SincNet for Speaker Recognition}",
+      journal = {arXiv e-prints},
+     keywords = {Electrical Engineering and Systems Science - Audio and Speech Processing, Computer Science - Computation and Language, Computer Science - Machine Learning, Computer Science - Neural and Evolutionary Computing, Computer Science - Sound, Statistics - Machine Learning},
+         year = 2019,
+        month = Jan,
+          eid = {arXiv:1901.10826},
+        pages = {arXiv:1901.10826},
+archivePrefix = {arXiv},
+       eprint = {1901.10826},
+ primaryClass = {eess.AS},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2019arXiv190110826N},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+``
