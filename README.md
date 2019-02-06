@@ -48,7 +48,7 @@ We have also made available some results from our experiments, you can check the
 
 If you use this code or part of it, please cite us!
 
-``
+```
 @ARTICLE{2019arXiv190110826N,
        author = {{Nunes}, Jo{\~a}o Ant{\^o}nio Chagas and {Mac{\^e}do}, David and {Zanchettin}, Cleber},
        title = "{Additive Margin SincNet for Speaker Recognition}",
@@ -64,6 +64,6 @@ If you use this code or part of it, please cite us!
        adsurl = {https://ui.adsabs.harvard.edu/\#abs/2019arXiv190110826N},
        adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
-``
+```
 
 You can also find the paper at [arXiv](https://arxiv.org/abs/1901.10826)
