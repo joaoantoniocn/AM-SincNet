@@ -66,4 +66,4 @@ If you use this code or part of it, please cite us!
 }
 ```
 
-You can also find the paper at [arXiv](https://arxiv.org/abs/1901.10826)
+You can also find the paper at [arXiv](https://arxiv.org/abs/1901.10826).
