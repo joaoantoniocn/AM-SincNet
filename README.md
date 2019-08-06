@@ -1,5 +1,5 @@
 
-# AM-SincNet
+# Additive Margin SincNet (AM-SincNet)
 AM-SincNet is a new approach for speaker recognition problems which is based in the neural network architecture SincNet and the additive margin softmax  (AM-Softmax) loss function. It uses the architecture of the SincNet, but with an improved AM-Softmax layer.
 
 This repository releases an example of code to perform a speaker identification experiment on the TIMIT dataset. To run it with other datasets you can have a look at the instructions on the original SincNet repository (https://github.com/mravanelli/SincNet).
