@@ -49,21 +49,18 @@ We have also made available some results from our experiments, you can check the
 If you use this code or part of it, please cite us!
 
 ```
-@ARTICLE{2019arXiv190110826N,
-       author = {{Nunes}, Jo{\~a}o Ant{\^o}nio Chagas and {Mac{\^e}do}, David and {Zanchettin}, Cleber},
-       title = "{Additive Margin SincNet for Speaker Recognition}",
-       journal = {arXiv e-prints},
-       keywords = {Electrical Engineering and Systems Science - Audio and Speech Processing, Computer Science - Computation and Language, Computer Science - Machine Learning, Computer Science - Neural and Evolutionary Computing, Computer Science - Sound, Statistics - Machine Learning},
-       year = 2019,
-       month = Jan,
-       eid = {arXiv:1901.10826},
-       pages = {arXiv:1901.10826},
-       archivePrefix = {arXiv},
-       eprint = {1901.10826},
-       primaryClass = {eess.AS},
-       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2019arXiv190110826N},
-       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
-}
+@INPROCEEDINGS{8852112,
+author={J. A. {Chagas Nunes} and D. {Macêdo} and C. {Zanchettin}},
+booktitle={2019 International Joint Conference on Neural Networks (IJCNN)},
+title={Additive Margin SincNet for Speaker Recognition},
+year={2019},
+volume={},
+number={},
+pages={1-5},
+keywords={},
+doi={10.1109/IJCNN.2019.8852112},
+ISSN={},
+month={July},}
 ```
 
 You can also find the paper at [arXiv](https://arxiv.org/abs/1901.10826).
