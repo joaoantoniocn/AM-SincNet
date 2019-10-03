@@ -63,4 +63,4 @@ ISSN={},
 month={July},}
 ```
 
-You can also find the paper at [arXiv](https://arxiv.org/abs/1901.10826).
+You can also find the paper at [IEEE](https://ieeexplore.ieee.org/document/8852112) or the pre-print at [arXiv](https://arxiv.org/abs/1901.10826).
